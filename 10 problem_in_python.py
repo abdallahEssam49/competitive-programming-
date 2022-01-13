@@ -1,5 +1,8 @@
 # 1- Valid anagram:
 
+# https://leetcode.com/problems/find-all-anagrams-in-a-string/
+#https://leetcode.com/problems/valid-anagram/
+
 from collections import Counter
 
 def are_anagrams(s1, s2):
